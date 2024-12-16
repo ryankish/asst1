@@ -2,4 +2,6 @@
 *.ppm
 *mandelbrot
 *venv*
+*.o
+prog2_vecintrin/myexp
 
