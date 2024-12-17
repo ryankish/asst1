@@ -4,5 +4,5 @@
 *venv*
 *.o
 prog2_vecintrin/myexp
-prog3_mandelbrot_ispc/mandel_brot_ispc
-
+prog3_mandelbrot_ispc/mandelbrot_ispc
+prog4_sqrt/sqrt
